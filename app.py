@@ -14,7 +14,7 @@ Puedes ver y modificar el código en el siguiente repositorio de GitHub: [Reposi
 Cristian Catari
 
 Celular: +591 70562921
-Correo electrónico: cristian.catari@gmail.com
+Correo electrónico: cristian.catari.ma@gmail.com
 """)
 
 
