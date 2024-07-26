@@ -1,6 +1,6 @@
-# Análisis de la Inflación por paises
+# Análisis de la Inflación por Países
 
-Esta aplicación de Streamlit realiza un análisis de la inflación por país, permitiendo visualizar diversas estadísticas y gráficos interactivos sobre la evolución de la inflación en diferentes países del mundo.
+Esta aplicación de Streamlit realiza un análisis de la inflación por país, permitiendo visualizar diversas estadísticas y gráficos interactivos sobre la evolución de la inflación en diferentes países del mundo. Además, ahora incluye la funcionalidad de predecir la inflación futura.
 
 ## Demo
 
@@ -12,7 +12,7 @@ La aplicación muestra:
 - Mapa interactivo de la inflación anual por país.
 - Evolución de la inflación anual por país a lo largo del tiempo.
 - Selección de países para visualizar sus estadísticas específicas.
-- Información detallada de la fuente de datos y del autor.
+- Predicción de la inflación futura para un país seleccionado.
 
 ## Fuente de Datos
 
