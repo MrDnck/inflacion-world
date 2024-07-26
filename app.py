@@ -11,10 +11,10 @@ Los datos se recolectaron de la plataforma del Banco Mundial: [Inflación, defla
 Puedes ver y modificar el código en el siguiente repositorio de GitHub: [Repositorio de GitHub](https://github.com/MrDnck/inflacion-world)
 
 ### Autor
-Tu Nombre
+Cristian Catari
 
-Celular: +591 12345678  
-Correo electrónico: tu.email@ejemplo.com
+Celular: +591 70562921
+Correo electrónico: cristian.catari@gmail.com
 """)
 
 
